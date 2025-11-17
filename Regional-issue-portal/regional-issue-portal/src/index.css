@@ -1,0 +1,28 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #f8fafc;
+}
+
+.bg-background {
+  background-color: #f9fafb;
+}
+
+.text-primary {
+  color: #0a2342;
+}
+
+.bg-primary {
+  background-color: #0a2342;
+}
+
+.bg-accent {
+  background-color: #fbbf24;
+}
+
+.text-accent {
+  color: #fbbf24;
+} */

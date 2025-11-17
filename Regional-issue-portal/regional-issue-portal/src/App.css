@@ -1,0 +1,9 @@
+body {
+  margin-left: 240px; 
+  transition: margin-left 0.3s ease;
+}
+
+.sidebar-collapsed ~ main,
+.sidebar-collapsed ~ .content {
+  margin-left: 80px !important;
+}
